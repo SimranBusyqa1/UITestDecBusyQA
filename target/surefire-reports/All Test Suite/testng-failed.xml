@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [All Test Suite]">
+  <test name="C:/Users/simra/IdeaProjects/TestBatchDec20(failed)">
+    <classes>
+      <class name="com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin">
+        <methods>
+          <include name="TC01_FailedLoginTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -->
+    </classes>
+  </test> <!-- C:/Users/simra/IdeaProjects/TestBatchDec20(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
